@@ -1,4 +1,8 @@
-hiiiiiii what are you doing here
+hiiiiiii 
+
+what are you doing here?
+
+it's nothing special cx
 
 ———————————
 
@@ -10,9 +14,9 @@ hiiiiiii what are you doing here
 
 check out:
 
-* [this silly discord client mod](https://github.com/Vendicated/Vencord)
-* [this discord android mod](https://github.com/Aliucord/Aliucord)
-* [this horrifying XSOverlay chatbox plugin](https://github.com/nyakowint/xsoverlay-keyboard-osc)
-* [Vencord xsoverlay notifier](https://github.com/Vendicated/Vencord/tree/main/src/plugins/xsOverlay)
+* [Vencord (PC | Discord)](https://github.com/Vendicated/Vencord)
+* [Aliucord (Android | Discord Legacy)](https://github.com/Aliucord/Aliucord)
+* [Keyboard Chatbox for XSOverlay](https://github.com/nyakowint/xsoverlay-keyboard-osc)
+* [Vencord XSOverlay Notifier](https://github.com/Vendicated/Vencord/tree/main/src/plugins/xsOverlay)
   
 ... and probably more
