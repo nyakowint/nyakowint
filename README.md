@@ -1,16 +1,6 @@
 hiiiiiii 
 
-what are you doing here?
-
-it's nothing special cx
-
-———————————
-
-<a href="https://www.youtube.com/watch?v=d1YBv2mWll0">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyakowint&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
-&nbsp; </a>
-
-————————————
+i do a whole lot of nothing :D
 
 check out:
 
@@ -20,3 +10,8 @@ check out:
 * [Vencord XSOverlay Notifier](https://github.com/Vendicated/Vencord/tree/main/src/plugins/xsOverlay)
   
 ... and probably more
+
+
+[test](./releases)
+[t2](/releases)
+[aaaa](releases)
