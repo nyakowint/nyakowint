@@ -10,4 +10,3 @@ check out:
 * [Vencord XSOverlay Notifier](https://github.com/Vendicated/Vencord/tree/main/src/plugins/xsOverlay)
   
 ... and probably more
-[aaaa](../../releases)
